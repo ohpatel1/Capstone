@@ -1,0 +1,10 @@
+name: finalshiny
+title:
+username: yonikazovsky
+account: yonikazovsky
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13580979
+bundleId: 9505722
+url: https://yonikazovsky.shinyapps.io/finalshiny/
+version: 1
